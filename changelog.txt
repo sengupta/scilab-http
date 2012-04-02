@@ -1,0 +1,11 @@
+Changelog of the Scilab HTTP toolbox
+====================================
+
+v0.0
+
+* Imported toolbox skeleton, removed a few unnecessary folders
+* Started Roadmap
+* Updated builder.sce with project name and variables
+
+v0.1 
+
