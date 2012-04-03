@@ -3,6 +3,8 @@ Scilab HTTP Toolbox
 
 This toolbox aims to provide HTTP capabilities in Scilab. 
 
+This toolbox is provided under the Modified BSD License. 
+
 Roadmap
 -------
 
