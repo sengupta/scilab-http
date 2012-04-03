@@ -14,4 +14,5 @@ v0.1
 
 - GET function
 - POST function
-
+- HEAD function
+- Status code
